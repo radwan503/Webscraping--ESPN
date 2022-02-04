@@ -1,0 +1,44 @@
+[
+   {
+      "name": "Radwan",
+      "lastName": "Anik",
+      "friends": [
+         "robel",
+         "mohin",
+         "mokbul"
+      ],
+      "age": 25,
+      "address": {
+         "city": "dhaka",
+         "state": "cumilla"
+      }
+   },
+   {
+      "name": "Akib",
+      "lastName": "minhaj",
+      "friends": [
+         "robel",
+         "mohin",
+         "mokbul"
+      ],
+      "age": 25,
+      "address": {
+         "city": "dhaka",
+         "state": "cumilla"
+      }
+   },
+   {
+      "name": "Saif",
+      "lastName": "minhaj",
+      "friends": [
+         "robel",
+         "mohin",
+         "mokbul"
+      ],
+      "age": 25,
+      "address": {
+         "city": "dhaka",
+         "state": "cumilla"
+      }
+   }
+]
